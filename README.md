@@ -15,6 +15,12 @@ A **Flutter-based mobile application** that uses **on-device machine learning** 
 - ⚡ Fast and responsive real-time detection  
 - ♿ Designed with accessibility in mind
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/c83719e5-fe1d-4991-b668-c0993497e5b8" alt="image1" width="45%" />
+    <img src="https://github.com/user-attachments/assets/0387acdb-d899-41e8-9c23-fcc9481555ab" alt="image2" width="45%" />
+</p>
+
+
 ## Assignment 2:
 This application is a Flask-based API gateway that exposes multiple microservices related to an **online learning platform**. It integrates with services for user enrollments, certificates, courses, and feedback, providing unified REST endpoints. The API is fully documented using **Swagger (via Flasgger)**, enabling easy exploration, testing, and integration through an interactive web UI.
 
