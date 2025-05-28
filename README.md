@@ -16,8 +16,8 @@ A **Flutter-based mobile application** that uses **on-device machine learning** 
 - ♿ Designed with accessibility in mind
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c83719e5-fe1d-4991-b668-c0993497e5b8" alt="image1" width="45%" />
-    <img src="https://github.com/user-attachments/assets/0387acdb-d899-41e8-9c23-fcc9481555ab" alt="image2" width="45%" />
+    <img src="https://github.com/user-attachments/assets/c83719e5-fe1d-4991-b668-c0993497e5b8" alt="image1" width="20%" />
+    <img src="https://github.com/user-attachments/assets/0387acdb-d899-41e8-9c23-fcc9481555ab" alt="image2" width="20%" />
 </p>
 
 
